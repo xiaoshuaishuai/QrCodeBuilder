@@ -7,3 +7,8 @@ run：com.ssx.QrCodeApplication
 
 
 ![Image text](./qr.png)
+-
+
+<font color=#0099ff size=8 face="黑体">参考:
+                         https://github.com/zxing/zxing
+                         https://blog.csdn.net/wangmx1993328/article/details/83856391</font>
